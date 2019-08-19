@@ -95,7 +95,7 @@ vector_token_ptr vectorTokenPtrFactory()
 
 ---?color=linear-gradient(0deg, white 80%, #5384AD 20%)
 
-@snap[north span-50 h3-white]
+@snap[north span-100 h3-white]
 ### Best practices
 @snapend
 
@@ -114,7 +114,7 @@ vector_token_ptr vectorTokenPtrFactory()
 
 ---?color=linear-gradient(0deg, white 80%, #5384AD 20%)
 
-@snap[north span-50 h3-white]
+@snap[north span-100 h3-white]
 ### Better solutions
 @snapend
 
