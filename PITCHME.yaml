@@ -1,0 +1,20 @@
+theme : template
+theme-background : [ "#FFF" ]
+theme-headline   : [ "Raleway", "#5289F7", "none" ]
+theme-byline     : [ "Raleway", "#111111", "none" ]
+theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
+theme-links      : [ "#5384AD", "#5254F7" ]
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+
+highlight        : solarized-light
+
+theme-override: assets/css/PITCHME.css
+
+layout : center
+
+footnote : "C++ MiniProject"
+
+transition : slide
+
