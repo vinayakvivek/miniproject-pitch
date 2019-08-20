@@ -129,7 +129,7 @@ vector_token_ptr vectorTokenPtrFactory()
 +++
 
 @snap[center span-100]
-<font size="+3">We choose our solution, since it is neat and simple. We were able to concentrate structure of the code and better coding practices.</font>
+<font size="+3">Our solution was chosen for its ease of use and implementation. With proper planning and division of work, we were able to concetrate on the quality of code and follow best practices.</font>
 @snapend
 
 ---
